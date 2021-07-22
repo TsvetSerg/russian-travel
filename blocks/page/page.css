@@ -1,6 +1,9 @@
 .page {
-  min-width: 1280px;
-  height: 1200px;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  min-width: 320px;
+  font-family: 'Inter', Arial, sans-serif;
   background: #2A2C2F;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }

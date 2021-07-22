@@ -1,0 +1,15 @@
+.place {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: 100fr 105fr;
+  grid-template-rows: repeat(2, auto);
+  gap: 48px 40px;
+  grid-template-areas:
+  "place__title place__website"
+  "place__image place__paragraphs";
+  margin-bottom: 80px;
+}
+
+.place:last-of-type {
+  margin-bottom: 0;
+}

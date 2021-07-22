@@ -1,0 +1,12 @@
+.pleace__paragraph {
+  font-size: 18px;
+  line-height: 29px;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 26px;
+}
+
+.pleace__paragraph:last-of-type {
+  margin-bottom: 0;
+}

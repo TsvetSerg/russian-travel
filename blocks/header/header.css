@@ -1,6 +1,8 @@
 .header {
   border: white solid 1px;
-  width: 80%;
   display: flex;
-  justify-content:space-between;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1184px;
 }
