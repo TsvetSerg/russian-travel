@@ -1,8 +1,8 @@
 .content {
-  max-width: 1184px;
-  min-width: 320px;
-  width: 100%;
+  max-width: 1280px;
   display: flex;
   flex-direction: column;
   align-self: center;
 }
+
+@media screen and (max-width: 320px) {}

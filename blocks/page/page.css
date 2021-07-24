@@ -1,9 +1,17 @@
 .page {
-  min-width: 320px;
+  /* min-width: 320px; */
+  width: 100%;
   font-family: 'Inter', Arial, sans-serif;
   background: #2A2C2F;
   color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
+
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+
+  }
 }
