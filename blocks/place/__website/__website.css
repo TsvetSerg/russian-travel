@@ -2,3 +2,9 @@
   align-self: end;
   grid-area: place__website;
 }
+
+@media screen and (max-width: 670px) {
+  .place__website {
+    padding-left: 16px;
+  }
+}

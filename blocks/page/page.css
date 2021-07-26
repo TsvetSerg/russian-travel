@@ -1,5 +1,4 @@
 .page {
-  /* min-width: 320px; */
   width: 100%;
   font-family: 'Inter', Arial, sans-serif;
   background: #2A2C2F;
@@ -8,10 +7,4 @@
   flex-direction: column;
   justify-content: center;
 
-}
-
-@media screen and (max-width: 320px) {
-  .page {
-
-  }
 }
