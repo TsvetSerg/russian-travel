@@ -1,4 +1,4 @@
-.pleace__paragraph {
+.place__paragraph {
   font-size: 18px;
   line-height: 29px;
   max-width: 100%;
@@ -7,18 +7,18 @@
   margin-bottom: 26px;
 }
 
-.pleace__paragraph:last-of-type {
+.place__paragraph:last-of-type {
   margin-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
-  .pleace__paragraph {
+  .place__paragraph {
     font-size: 16px;
   }
 }
 
 @media screen and (max-width: 670px) {
-  .pleace__paragraph {
+  .place__paragraph {
     font-size: 16px;
     line-height: 26px;
     padding-left: 16px;
