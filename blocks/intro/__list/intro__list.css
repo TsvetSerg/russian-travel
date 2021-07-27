@@ -3,6 +3,7 @@
   list-style: none;
   font-size: 12px;
   line-height: 18px;
+  font-weight: bold;  /* <----- или тут надо указать в цыфрах значение?? */
   margin: 0;
   padding: 0;
 }
